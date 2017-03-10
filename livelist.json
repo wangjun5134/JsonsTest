@@ -1,0 +1,40 @@
+{
+    "list": [
+        {
+            "name": "投资资讯",
+            "speaker": "小王",
+            "startTime": "2017-03-08 19:00:00",
+            "endTime": "2017-03-08 21:00:00",
+            "noPlayQRCode": "https://xybk.rytong.com/hall/showp/p_resources_v2/images/QRcode/xcb.png",
+            "actionId": "A2017010800000a3",
+            "isUseHLS": true,
+            "puid": "0",
+            "thumbnailUrl": "file:///android_asset/A2017010800000a3.webp",
+            "description": "观看视频直播的私人银行或高端零售客户，可与投资专家互动交流，多对一解决客户复杂的金融服务需求。"
+        },
+        {
+            "name": "私行路演",
+            "speaker": "小李",
+            "startTime": "2017-03-09 19:00:00",
+            "endTime": "2017-03-09 21:00:00",
+            "noPlayQRCode": "https://xybk.rytong.com/hall/showp/p_resources_v2/images/QRcode/xcb.png",
+            "actionId": "A20170111000003n",
+            "isUseHLS": true,
+            "puid": "0",
+            "thumbnailUrl": "file:///android_asset/A20170111000003n.webp",
+            "description": "以视频直播的方式呈现私人银行现场产品路演，对重要客户点对点的现场直播讲解和互动。"
+        },
+        {
+            "name": "CCTV5",
+            "speaker": "小刘",
+            "startTime": "2017-03-08 08:00:00",
+            "endTime": "2017-03-08 21:00:00",
+            "noPlayQRCode": "https://xybk.rytong.com/hall/showp/p_resources_v2/images/QRcode/xcb.png",
+            "actionId": "A2016053100000je",
+            "isUseHLS": true,
+            "puid": "0",
+            "thumbnailUrl": "file:///android_asset/A2017010800000a3.webp",
+            "description": "CCTV5测试"
+        }
+    ]
+}
